@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/walterpinson/hardhat-demo/issues"
   },
-  "homepage": "https://github.com/walterpinson/hardhat-demo#readme"
+  "homepage": "https://github.com/walterpinson/hardhat-demo#readme",
+  "devDependencies": {
+    "hardhat": "^2.10.1"
+  }
 }
