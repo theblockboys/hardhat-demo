@@ -1,0 +1,19 @@
+{
+  "name": "hardhat-demo",
+  "version": "1.0.0",
+  "description": "Demonstrate intersting hardhat features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walterpinson/hardhat-demo.git"
+  },
+  "author": "Big Walt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walterpinson/hardhat-demo/issues"
+  },
+  "homepage": "https://github.com/walterpinson/hardhat-demo#readme"
+}
