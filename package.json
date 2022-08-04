@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/walterpinson/hardhat-demo#readme",
   "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
     "hardhat": "^2.10.1"
   }
 }
