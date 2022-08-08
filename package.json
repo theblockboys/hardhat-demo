@@ -1,0 +1,26 @@
+{
+  "name": "hardhat-demo",
+  "version": "1.0.0",
+  "description": "Demonstrate intersting hardhat features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theblockboys/hardhat-demo.git"
+  },
+  "author": "Big Walt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theblockboys/hardhat-demo/issues"
+  },
+  "homepage": "https://github.com/theblockboys/hardhat-demo#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^1.0.2",
+    "hardhat": "^2.10.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.2"
+  }
+}
