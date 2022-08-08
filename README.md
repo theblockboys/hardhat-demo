@@ -1,15 +1,14 @@
-# Sample Hardhat Project
+# Hardhat Demonstration
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project supports the Hardhat Demo videos on The Block Boys YouTube channel.  
 
 Try running some of the following tasks:
 
 ```shell
-npx hardhat help
+npx hardhat compile
 npx hardhat test
-GAS_REPORT=true npx hardhat test
 npx hardhat node
-npx hardhat run scripts/deploy.ts
+npx hardhat run --network localhost scripts/deploy.ts
 ```
 
 [![built-with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)](https://docs.openzeppelin.com/)
